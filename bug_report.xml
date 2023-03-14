@@ -1,1 +1,11 @@
-
+<attributes>
+  <id></id>
+  <title></title>
+  <stepstoreproduce></stepstoreproduce>
+  <actualresult></actualresult>
+  <expectedresult></expectedresult>
+  <severity></severity>
+  <priority></priority>
+  <attachment></attachment>
+  <requirement></requirement>
+</attributes>
