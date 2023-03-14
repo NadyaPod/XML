@@ -1,0 +1,9 @@
+<person>
+  <name>Nadegda</name>
+  <surname>Podyacheva</surname>
+  <pets>2</pets>
+  <petsnames>
+    <pet>Syava</pet>
+    <pet>Janya</pet>
+  </petsnames>
+</person>
